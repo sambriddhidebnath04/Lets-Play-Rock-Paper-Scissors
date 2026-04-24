@@ -6,7 +6,7 @@ Built to practice core JavaScript logic, handling user interactions, and creatin
 
 ---
 
-## 🌸 Features  
+## 🐾 Features  
 
 • Play Rock, Paper, Scissors against the computer  
 • Instant result display (win/lose/draw)  

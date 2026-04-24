@@ -46,19 +46,21 @@ img{
     justify-content: center;
     align-items: center;
     gap: 4rem;
-    font-size: 3rem;
+    font-size: 2rem;
     margin-top: 2rem;
 }
 
 .msg-container{
     margin-top: 3rem;
     margin-bottom: 2rem;
+    justify-content: center;
+    align-items: center;
 }
 
 #msg{
     background-color:rgb(233, 108, 156);
     color: azure;
-    font-size: 3rem;
+    font-size: 2rem;
     display: inline;
     padding: 1rem;
     border-radius: 2rem;
